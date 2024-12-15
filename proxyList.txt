@@ -79,3 +79,4 @@
 62.72.46.14,8443,SG,Contabo Asia Private Limited
 158.178.225.124,53618,SG,Oracle Corporation
 43.218.77.16,1443,ID,Amazon.com
+43.133.145.156,53136,ID,Tencent Building
